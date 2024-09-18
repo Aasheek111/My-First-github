@@ -1,1 +1,3 @@
-suiiiii
+Hello my future brooo 
+this is how i started my github journey and i am learning bootstrap and making personal website now ...
+see u in future
